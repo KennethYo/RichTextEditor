@@ -1,4 +1,4 @@
-package cn.kenneth.richtexteditor;
+package cn.kenneth.richedittextdemo;
 
 import org.junit.Test;
 
